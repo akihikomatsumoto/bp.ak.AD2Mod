@@ -682,7 +682,7 @@
 									}
 ,
 									"text" : "autopattr",
-									"varname" : "u532005073"
+									"varname" : "u785000698"
 								}
 
 							}
@@ -3482,7 +3482,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u619005074"
+					"varname" : "u481000699"
 				}
 
 			}
@@ -3523,14 +3523,14 @@
 					"fontname" : "Ableton Sans Bold Regular",
 					"fontsize" : 9.0,
 					"id" : "obj-13",
-					"linecount" : 2,
+					"linecount" : 4,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 11.173828, 10.0, 23.0, 28.0 ],
+					"patching_rect" : [ 11.173828125, 10.0, 23.0, 50.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2.0, 18.623149871826172, 29.0, 17.0 ],
-					"text" : "AD2",
+					"presentation_rect" : [ 2.0, 18.623149871826172, 59.0, 17.0 ],
+					"text" : "ak.AD2Mod",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -3790,20 +3790,20 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-119::obj-42" : [ "scrollRight[1]", "scrollRight", 13 ],
-			"obj-119::obj-2" : [ "Linear/RC", "Linear/RC", 2 ],
 			"obj-119::obj-5" : [ "DecayCV", "DcyCV", 6 ],
-			"obj-119::obj-19" : [ "DurationMultiplier", "DurMult", 7 ],
-			"obj-119::obj-13" : [ "scrollLeft[1]", "scrollLeft", 12 ],
-			"obj-119::obj-44" : [ "EndOfStageMode", "EOS", 11 ],
 			"obj-20" : [ "mute", "mute", 8 ],
 			"obj-119::obj-46" : [ "RateOrTime", "RateOrTime", 10 ],
-			"obj-119::obj-80" : [ "RetriggerMode", "Response", 4 ],
 			"obj-119::obj-3" : [ "AttackCV", "AtkCV", 5 ],
+			"obj-119::obj-2" : [ "Linear/RC", "Linear/RC", 2 ],
+			"obj-119::obj-13" : [ "scrollLeft[1]", "scrollLeft", 12 ],
+			"obj-119::obj-42" : [ "scrollRight[1]", "scrollRight", 13 ],
+			"obj-119::obj-19" : [ "DurationMultiplier", "DurMult", 7 ],
 			"obj-119::obj-129" : [ "RetriggerDuration", "RetrigDur", 9 ],
-			"obj-119::obj-48" : [ "Loop", "Loop", 3 ],
 			"obj-119::obj-32" : [ "Decay", "Decay", 1 ],
+			"obj-119::obj-48" : [ "Loop", "Loop", 3 ],
 			"obj-119::obj-45" : [ "Attack", "Attack", 0 ],
+			"obj-119::obj-44" : [ "EndOfStageMode", "EOS", 11 ],
+			"obj-119::obj-80" : [ "RetriggerMode", "Response", 4 ],
 			"parameterbanks" : 			{
 
 			}
